@@ -1,0 +1,4 @@
+django
+djangorestframework
+Pillow
+django-base64field
